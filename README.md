@@ -14,12 +14,12 @@ volatility surface construction.
 
 ## Project Structure
 options_dashboard/
-├── pricing/
-│   ├── black_scholes.py   # BSM formula + implied vol
-│   ├── greeks.py          # All 5 Greeks analytically
-│   ├── monte_carlo.py     # GBM path simulation
-│   └── binomial_tree.py   # CRR tree pricing
-└── app.py                 # Streamlit dashboard
+ >pricing/
+   > black_scholes.py   # BSM formula + implied vol
+   > greeks.py          # All 5 Greeks analytically
+   > monte_carlo.py     # GBM path simulation
+   > binomial_tree.py   # CRR tree pricing
+ > app.py               # Streamlit dashboard
 ## Installation
 ```bash
 git clone https://github.com/muditjain936/options-dashboard.git
