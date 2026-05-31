@@ -12,6 +12,23 @@ volatility surface construction.
 - **Implied Volatility Surface** with vol smile/skew
 - Interactive sliders for all contract parameters
 
+## Screenshots
+
+### 💰 Pricing & Model Comparison
+![Pricing](screenshots/pricing_dashboard.png)
+
+### 🔢 Greeks
+![Greeks](screenshots/greeks_dashboard.png)
+
+### 📊 Payoff Diagram
+![Payoff](screenshots/payoff.png)
+
+### 🌐 Volatility Surface
+![Vol Surface](screenshots/volatility.png)
+
+### 🎲 Monte Carlo Simulation
+![Monte Carlo](screenshots/montecarlo_dashboard.png)
+
 ## Installation
 ```bash
 git clone https://github.com/muditjain936/options-dashboard.git
